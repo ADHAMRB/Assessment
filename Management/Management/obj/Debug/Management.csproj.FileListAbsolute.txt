@@ -1,0 +1,58 @@
+C:\Users\Admin\source\repos\Management\Management\bin\Debug\Management.exe.config
+C:\Users\Admin\source\repos\Management\Management\bin\Debug\Management.exe
+C:\Users\Admin\source\repos\Management\Management\bin\Debug\Management.pdb
+C:\Users\Admin\source\repos\Management\Management\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\Management\Management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\Management\Management\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\Management\Management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Management.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Log In.g.cs
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\ManagementPage.g.cs
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\ViewTasks.g.cs
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Management_Content.g.cs
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Management_MarkupCompile.cache
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Management_MarkupCompile.lref
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\App.baml
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Log In.baml
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\ManagementPage.baml
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\ViewTasks.baml
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Management.g.resources
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Management.Properties.Resources.resources
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Management.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Management.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Management.csproj.Up2Date
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Management.exe
+C:\Users\Admin\source\repos\Management\Management\obj\Debug\Management.pdb
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Management.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Log In.g.cs
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\ManagementPage.g.cs
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\ViewTasks.g.cs
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Management_Content.g.cs
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Management_MarkupCompile.cache
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Management_MarkupCompile.lref
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Management.exe
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Management.pdb
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Sign Up.g.cs
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\bin\Debug\Management.exe.config
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\bin\Debug\Management.exe
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\bin\Debug\Management.pdb
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\App.baml
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Log In.baml
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\ManagementPage.baml
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Sign Up.baml
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\ViewTasks.baml
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Management.g.resources
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Management.Properties.Resources.resources
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Management.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Management.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ADHAM W4 523039\Management\Management\obj\Debug\Management.csproj.Up2Date

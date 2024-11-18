@@ -1,0 +1,46 @@
+﻿<Page x:Class="Management.ViewTasks"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Management"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Log_In">
+
+    <Grid ShowGridLines="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+        <Image Source="Capture.png" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Label Content="Welcome" FontSize="50" Style="{StaticResource LabelStyle}" Grid.Column="0" VerticalAlignment="Top" Margin="288,-2,288,0" Grid.ColumnSpan="2"/>
+        <Label Content="Pending / In Progress" Background="DarkBlue" Style="{StaticResource LabelStyle}" Grid.Column="0" VerticalAlignment="Top" Margin="97,68,0,0"/>
+        <Label Content="Task:" Style="{StaticResource LabelStyle}" Grid.Column="0" VerticalAlignment="Top" Margin="97,37,200,0" Grid.Row="1"/>
+        <TextBox x:Name="IDTask" Margin="194,45,152,145" Grid.Row="1"/>
+        <Label Content="Completed" Background="DarkRed" Style="{StaticResource LabelStyle}" Grid.Column="0" VerticalAlignment="Top" Margin="97,96,0,0" Grid.Row="1"/>
+
+        <ComboBox x:Name="Status" Margin="5,43,200,147" Grid.Column="1" Grid.Row="1">
+            <ComboBoxItem Tag="Completed"/>
+            <ComboBoxItem Tag="Pending"/>
+            <ComboBoxItem Tag="In Progress"/>
+
+        </ComboBox>
+        <Label Content="Status:" Style="{StaticResource LabelStyle}" Grid.Column="0" VerticalAlignment="Top" Margin="297,37,0,0" Grid.Row="1"/>
+        <DataGrid x:Name="dt1" Height="100" Grid.ColumnSpan="2" Margin="97,139,200,211" Grid.RowSpan="2"/>
+        <DataGrid x:Name="dt2" Grid.ColumnSpan="2" Margin="97,151,200,12" Grid.Row="1"/>
+
+        <Button Content="Save" Style="{StaticResource Button}" HorizontalAlignment="Left" Margin="243,12,0,0" Grid.Row="1" VerticalAlignment="Top" Height="50" Width="115" Grid.Column="1"/>
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="37*"/>
+            <RowDefinition Height="38*"/>
+
+        </Grid.RowDefinitions>
+
+
+
+    </Grid>
+</Page>

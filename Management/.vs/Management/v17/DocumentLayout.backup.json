@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|c:\\users\\admin\\desktop\\adham w4 523039\\management\\management\\sign up.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|solutionrelative:management\\sign up.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|c:\\users\\admin\\desktop\\adham w4 523039\\management\\management\\sign up.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|solutionrelative:management\\sign up.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|c:\\users\\admin\\desktop\\adham w4 523039\\management\\management\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|solutionrelative:management\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\management\\viewtasks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|solutionrelative:management\\viewtasks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\management\\viewtasks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|solutionrelative:management\\viewtasks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\management\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|solutionrelative:management\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\management\\log in.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|solutionrelative:management\\log in.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|c:\\users\\admin\\desktop\\adham w4 523039\\management\\management\\log in.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|solutionrelative:management\\log in.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\management\\managementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|solutionrelative:management\\managementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\management\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|solutionrelative:management\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\management\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|solutionrelative:management\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\management\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E41B471-591B-4601-A0F8-1DB7DE397AF9}|Management\\Management.csproj|solutionrelative:management\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\Model1.edmx",
+              "RelativeDocumentMoniker": "Management\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Management\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-18T11:50:38.866Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sign Up.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\Sign Up.xaml.cs",
+              "RelativeDocumentMoniker": "Management\\Sign Up.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\Sign Up.xaml.cs",
+              "RelativeToolTip": "Management\\Sign Up.xaml.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:07:44.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sign Up.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\Sign Up.xaml",
+              "RelativeDocumentMoniker": "Management\\Sign Up.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\Sign Up.xaml",
+              "RelativeToolTip": "Management\\Sign Up.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T11:00:50.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewTasks.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\ViewTasks.xaml",
+              "RelativeDocumentMoniker": "Management\\ViewTasks.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\ViewTasks.xaml",
+              "RelativeToolTip": "Management\\ViewTasks.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T11:06:36.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewTasks.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\ViewTasks.xaml.cs",
+              "RelativeDocumentMoniker": "Management\\ViewTasks.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\ViewTasks.xaml.cs",
+              "RelativeToolTip": "Management\\ViewTasks.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:34:37.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Log In.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\Log In.xaml.cs",
+              "RelativeDocumentMoniker": "Management\\Log In.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\Log In.xaml.cs",
+              "RelativeToolTip": "Management\\Log In.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:01:04.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\App.config",
+              "RelativeDocumentMoniker": "Management\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\App.config",
+              "RelativeToolTip": "Management\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAADCAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-17T07:43:25.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\App.xaml",
+              "RelativeDocumentMoniker": "Management\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\App.xaml",
+              "RelativeToolTip": "Management\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T07:40:38.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Management\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\MainWindow.xaml",
+              "RelativeToolTip": "Management\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T07:14:58.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagementPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\ManagementPage.xaml",
+              "RelativeDocumentMoniker": "Management\\ManagementPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\ManagementPage.xaml",
+              "RelativeToolTip": "Management\\ManagementPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T08:08:53.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Log In.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\Log In.xaml",
+              "RelativeDocumentMoniker": "Management\\Log In.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\Log In.xaml",
+              "RelativeToolTip": "Management\\Log In.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T07:31:54.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Management\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADHAM W4 523039\\Management\\Management\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Management\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:14:57.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
